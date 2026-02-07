@@ -207,10 +207,8 @@ Based on the dashboard insights and observed trends, the following business reco
 ---
 
 ## 🛠️ Tools Used
-
+* **MS Excel** - Data Cleaning, Basic Analysis
 * **Power BI** – Data modeling, DAX measures, and visualization
 * **Data Analytics Concepts** – KPI design, time intelligence, comparative analysis
 
 ---
-
-📌 *This project demonstrates practical business analysis using Power BI with a strong focus on facts, figures, and decision-oriented insights.*
