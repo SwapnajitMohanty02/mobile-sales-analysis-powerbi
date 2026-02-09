@@ -6,6 +6,27 @@ This project is an **end-to-end Power BI dashboard** built to analyze mobile pho
 
 ---
 
+## 🎯 Business Objectives
+
+The primary business objectives of this dashboard are:
+
+1. **Monitor Overall Sales Performance**
+   Track total revenue (**₹769M**), quantity sold (**19K units**), and transactions (**4K**) to understand business scale and performance.
+
+2. **Evaluate Sales Growth Over Time**
+   Use **MTD (₹19M)** and **SPLY analysis** to measure growth trends, seasonality, and year-over-year performance.
+
+3. **Identify Key Revenue Drivers**
+   Analyze top-performing **mobile models, cities, and payment methods** to focus on high-impact business areas.
+
+4. **Understand Customer Behavior**
+   Study purchasing patterns by **day of week, ratings, and payment preference** to improve sales and marketing strategies.
+
+5. **Support Data-Driven Decision Making**
+   Enable stakeholders to make informed decisions related to **inventory planning, promotions, pricing, and regional expansion**.
+
+---
+
 ## 📊 Key Business Metrics (Overall)
 
 | Metric                    | Value         |
@@ -207,8 +228,11 @@ Based on the dashboard insights and observed trends, the following business reco
 ---
 
 ## 🛠️ Tools Used
-* **MS Excel** - Data Cleaning, Basic Analysis
+
 * **Power BI** – Data modeling, DAX measures, and visualization
 * **Data Analytics Concepts** – KPI design, time intelligence, comparative analysis
 
 ---
+
+📌 *This project demonstrates practical business analysis using Power BI with a strong focus on facts, figures, and decision-oriented insights.*
+
